@@ -20,6 +20,8 @@ Plusieurs options ont été ajoutées à ce programme :
 - Textures, bruit de perlin
 - Perturbation de la limite
 
+Group project by bmuselet, gnegri, mgreil and nghaddar.
+
 ![Plan quadrillé](examples/01.png "Quadrillage")
 ![Reflexion infini](examples/02.png "Reflexion + anti-aliasing")
 ![Sphere transparente](examples/03.png "Transparence")
